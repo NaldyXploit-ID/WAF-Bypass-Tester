@@ -1,0 +1,6 @@
+:root{--bg:#0b1220;--text:#e6eef6;--accent:#06b6d4}
+*{box-sizing:border-box}
+body{font-family:Inter,system-ui,Segoe UI,Roboto,Arial;background:var(--bg);color:var(--text);padding:24px}
+main{max-width:900px}
+button{background:var(--accent);border:0;padding:10px 12px;border-radius:6px;color:#042028}
+pre{background:#071424;padding:12px;border-radius:6px;margin-top:10px;white-space:pre-wrap}

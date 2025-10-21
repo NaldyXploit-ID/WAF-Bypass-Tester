@@ -1,0 +1,8 @@
+{
+  "name": "waf-bypass-tester",
+  "version": "0.1.0",
+  "description": "Demo package for WAF-Bypass-Tester",
+  "main": "assets/app.js",
+  "scripts": { "start": "node assets/app.js" },
+  "license": "MIT"
+}
